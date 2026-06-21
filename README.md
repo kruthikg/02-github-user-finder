@@ -3,6 +3,8 @@
 A small React app to search GitHub users, view a clean profile card, and compare
 two developers side by side. Built with the public GitHub API.
 
+🔗 **Live demo:** https://02-github-user-finder.vercel.app/
+
 ## Features
 - Search any GitHub username and see their profile
 - Profile card with top languages, most-starred repos, followers and join year
